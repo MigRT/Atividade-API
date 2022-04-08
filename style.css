@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+}
+div{
+    text-align: center;
+}
+#divbutton{
+    padding-top: 15vh;
+}
+#divh1{
+    padding-top: 5vh;
+}
+button{
+    width: 55vw;
+    font-size: 50px;
+    border-color: #6d48aa;
+    color: rgb(0, 0, 0);
+    box-shadow: 0 0 40px 40px #6d48aa inset, 0 0 0 0 #6d48aa;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    border-radius: 0.4em;
+}
+button:hover {
+    box-shadow: 0 0 10px 0 #6d48aa inset, 0 0 10px 4px #6d48aa;
+}
+h1{
+    
+    line-height: 10vh;
+}
